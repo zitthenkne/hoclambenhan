@@ -1,0 +1,5 @@
+{
+  "name": "Virtual Medical Case Teacher",
+  "description": "An AI-powered virtual teacher to guide medical students in writing a detailed internal medicine case report, with a focus on logical thinking and structure, all within a mobile-friendly, pastel-themed interface.",
+  "requestFramePermissions": []
+}
